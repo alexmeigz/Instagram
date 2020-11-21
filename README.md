@@ -21,4 +21,4 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: https://i.imgur.com/uZ3sGDF.mp4
+Here's a walkthrough of implemented user stories: https://streamable.com/a2nzgm
